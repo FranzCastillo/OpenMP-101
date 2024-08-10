@@ -1,4 +1,5 @@
 .idea
+*.docx
 
 # Prerequisites
 *.d
